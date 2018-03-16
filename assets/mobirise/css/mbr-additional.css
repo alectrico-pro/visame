@@ -6690,6 +6690,9 @@ body {
 .cid-qMoPaZDcM5 .btn {
   margin: 0 0 .5rem 0;
 }
+.cid-qMoPaZDcM5 .content-row {
+  flex-direction: row-reverse;
+}
 .cid-qAUlmkkK9V {
   padding-top: 90px;
   padding-bottom: 90px;
