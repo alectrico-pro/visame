@@ -6647,7 +6647,7 @@ body {
   color: #efefef;
 }
 .cid-qMoPaZDcM5 {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -6656,6 +6656,9 @@ body {
 }
 .cid-qMoPaZDcM5 .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qMoPaZDcM5 .content-row {
+  flex-direction: row-reverse;
 }
 .cid-qzxFkMLn4C {
   padding-top: 90px;
