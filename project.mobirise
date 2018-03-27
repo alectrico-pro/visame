@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aléctrico-Providencia-Ñuñoa-clone",
-    "currentPage": "page14.html",
+    "currentPage": "santiago.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 356,
     "versionPublish": "4.6.6",
@@ -9565,10 +9565,10 @@
         }
       ]
     },
-    "page14.html": {
+    "santiago.html": {
       "settings": {
         "title": "Aléctrico: Electricista a Domicilio Santiago Centro",
-        "meta_descr": "Electricista a Domicilio, Instalador Autorizado SEC",
+        "meta_descr": "Electricista a Domicilio en Santiago Centro, Instalador Autorizado SEC",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
