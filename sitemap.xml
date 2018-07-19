@@ -30,9 +30,6 @@
 		<loc>http://alectrico.cl/presupuesto.html</loc>
 	</url>
 	<url>
-		<loc>http://alectrico.cl/page11.html</loc>
-	</url>
-	<url>
 		<loc>http://alectrico.cl/index.html</loc>
 	</url>
 	<url>
@@ -43,5 +40,8 @@
 	</url>
 	<url>
 		<loc>http://alectrico.cl/santiago.html</loc>
+	</url>
+	<url>
+		<loc>http://alectrico.cl/electricista_autorizado.html</loc>
 	</url>
 </urlset>
