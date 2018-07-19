@@ -5361,6 +5361,20 @@ body {
     margin-left: 0 !important;
   }
 }
+.cid-qYgxd6zCOT {
+  background-image: url("../../../assets/images/tablero-25-perspectiva-derecha.jpeg");
+}
+.cid-qYgxd6zCOT h1 {
+  color: #616161;
+}
+.cid-qYgxd6zCOT h2,
+.cid-qYgxd6zCOT h3,
+.cid-qYgxd6zCOT p {
+  color: #767676;
+}
+.cid-qYgxd6zCOT .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qzktFgr3XF {
   padding-top: 90px;
   padding-bottom: 15px;
@@ -6044,20 +6058,6 @@ body {
   .cid-qzYAPFCjf7 .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qYgxd6zCOT {
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-qYgxd6zCOT h1 {
-  color: #616161;
-}
-.cid-qYgxd6zCOT h2,
-.cid-qYgxd6zCOT h3,
-.cid-qYgxd6zCOT p {
-  color: #767676;
-}
-.cid-qYgxd6zCOT .mbr-section-subtitle {
-  font-style: italic;
 }
 .cid-qzZ0WCsEcZ {
   padding-top: 105px;
