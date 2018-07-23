@@ -6635,39 +6635,6 @@ body {
 .cid-qT7U08r1ct .mbr-section-subtitle {
   color: #efefef;
 }
-.cid-qT7U0aAY5K {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qT7U0aAY5K .mbr-text {
-  color: #767676;
-}
-.cid-qT7U0aAY5K h4 {
-  text-align: center;
-}
-.cid-qT7U0aAY5K p {
-  text-align: center;
-}
-.cid-qT7U0aAY5K .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-qT7U0bOP63 {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/detalle-del-bloqueo-de-circuito-1456x2592.jpg");
-}
-.cid-qT7U0bOP63 B {
-  color: #149dcc;
-}
-.cid-qT7U0bOP63 .mbr-text,
-.cid-qT7U0bOP63 .mbr-section-btn {
-  color: #cccccc;
-}
-.cid-qT7U0bOP63 H1 {
-  color: #149dcc;
-}
 .cid-qT7U0cBw47 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6746,6 +6713,39 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-qT7U0aAY5K {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qT7U0aAY5K .mbr-text {
+  color: #767676;
+}
+.cid-qT7U0aAY5K h4 {
+  text-align: center;
+}
+.cid-qT7U0aAY5K p {
+  text-align: center;
+}
+.cid-qT7U0aAY5K .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qT7U0bOP63 {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/detalle-del-bloqueo-de-circuito-1456x2592.jpg");
+}
+.cid-qT7U0bOP63 B {
+  color: #149dcc;
+}
+.cid-qT7U0bOP63 .mbr-text,
+.cid-qT7U0bOP63 .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-qT7U0bOP63 H1 {
+  color: #149dcc;
 }
 .cid-qYgDe0aAJA {
   background-image: url("../../../assets/images/tablero-25-perspectiva-derecha.jpeg");
