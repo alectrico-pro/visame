@@ -9670,29 +9670,6 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/dscf0214-2000x550.jpg");
 }
-.cid-qYAcw8mBoX {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #ffffff;
-}
-.cid-qYAcw8mBoX [class^="socicon-"]:before,
-.cid-qYAcw8mBoX [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-qYAcw8mBoX .btn-social {
-  border-color: #149dcc;
-}
-.cid-qYAcw8mBoX .btn-social:hover {
-  background: #149dcc;
-}
-.cid-qYAcw8mBoX .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-qYAcw8mBoX .btn {
-    font-size: 20px !important;
-  }
-}
 .cid-qYAcw9Kkbd .navbar {
   background: #c1c1c1;
   transition: none;
@@ -10064,62 +10041,4 @@ body {
   .cid-qYAcw9Kkbd .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qYAcwbaydr {
-  padding-top: 105px;
-  padding-bottom: 120px;
-  background-color: #2e2e2e;
-}
-.cid-qYAcwbaydr .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qYAcwbaydr .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qYAcwbaydr .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qYAcwbaydr .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qYAcwbaydr .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qYAcwbaydr .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qYAcwbaydr .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qYAcwbaydr .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qYAcwbaydr .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qYAcwbaydr .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qYAcwbaydr .media-container-row .row-copirayt {
-  word-break: break-word;
 }
