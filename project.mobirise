@@ -3,7 +3,7 @@
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
     "currentPage": "electricista_domicilio.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 516,
+    "uniqCompNum": 532,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
       "settings": {
         "meta_descr": "Alexander Espinosa\nCurriculum Vitae",
         "title": "Ingeniería",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -117,7 +117,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -658,7 +658,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1106,7 +1106,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1725,7 +1725,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2236,7 +2236,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3063,7 +3063,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3523,7 +3523,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -4031,7 +4031,7 @@
       "settings": {
         "meta_descr": "Presupuesto",
         "title": "Presupuesto",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4618,8 +4618,8 @@
     },
     "ñuñoa.html": {
       "settings": {
-        "title": "Aléctrico: Electricista a Domicilio Ñuñoa",
-        "meta_descr": "Electricista a Domicilio Ñuñoa, Instalador Eléctrico Autorizado SEC",
+        "title": "Aléctrico: Electricista a Domicilio Ñuñoa | Vista $20.000.-",
+        "meta_descr": "Electricista a Domicilio Ñuñoa, Instalador Eléctrico Autorizado SEC, Eléctrico Autorizado Ñuñoa, Electricista SEC Ñuñoa",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5450,8 +5450,8 @@
     },
     "providencia.html": {
       "settings": {
-        "title": "Aléctrico: Electricista a Domicilio Providencia",
-        "meta_descr": "Electricista a Domicilio Providencia, Instalador Autorizado SEC",
+        "title": "Aléctrico: Electricista a Domicilio Providencia | Visita $20.000.-",
+        "meta_descr": "Electricista a Domicilio Providencia, Instalador Eléctrico Autorizado  SEC Providencia, Eléctrico Autorizado Providencia",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -6679,8 +6679,8 @@
     },
     "santiago.html": {
       "settings": {
-        "title": "Electricista a Domicilio Santiago, Instalador Autorizado SEC",
-        "meta_descr": "Electricista a Domicilio Santiago, Instalador Autorizado SEC",
+        "title": "Electricista a Domicilio Santiago, Instalador Autorizado SEC | Visita $15.000.-",
+        "meta_descr": "Electricista a Domicilio Santiago, Instalador Eléctrico Autorizado SEC,  Eléctrico a Domicilio Santiago, Electricista SEC Santiago",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -7879,7 +7879,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
