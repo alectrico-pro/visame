@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
-    "currentPage": "electricista_autorizado.html",
+    "currentPage": "santiago.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 532,
     "versionPublish": "4.7.2",
@@ -6679,8 +6679,8 @@
     },
     "santiago.html": {
       "settings": {
-        "title": "Electricista a Domicilio Santiago, Instalador Autorizado SEC | Visita $15.000.-",
-        "meta_descr": "Electricista a Domicilio Santiago, Instalador Eléctrico Autorizado SEC,  Eléctrico a Domicilio Santiago, Electricista SEC Santiago, Electricista a Domicilio Santiago Centro, Electricista Autorizado Santiago Centro, Electricista SEC Santiago Centro, Instalador Eléctrico Autorizado Santiago Centro",
+        "title": "Electricista a Domicilio Santiago | Visita $20.000.-",
+        "meta_descr": "Electricista a Domicilio Santiago",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
