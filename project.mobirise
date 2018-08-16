@@ -10355,6 +10355,57 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": ".5rem",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content11",
+          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN ÑUÑOA- </b>Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico Autorizado SEC.<b> <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20ÑUÑOA\">Enviar Ahora!</a></b></li>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN PROVIDENCIA</b>&nbsp;- Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico Autorizado SEC. <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20PROVIDENCIA\">Enviar Ahora!</a></li>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN SANTIAGO CENTRO</b><b>- </b>Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico Autorizado SEC.<b> <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20SANTIAGO%20CENTRO\">Enviar Ahora!</a></b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r0RPERslzS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content11-ev"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -10409,57 +10460,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ol": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem"
-                },
-                "& when (@stylizedCounters)": {
-                  "counter-reset": "myCounter",
-                  "li": {
-                    "list-style": "none",
-                    "padding-left": ".5rem",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "0px",
-                      "margin-top": "-10px",
-                      "counter-increment": "myCounter",
-                      "content": "counter(myCounter)",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "40px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "40px",
-                      "height": "40px",
-                      "border-radius": "50%",
-                      "& when (@squareCounters)": {
-                        "border-radius": "0"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          },
-          "_name": "content11",
-          "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN ÑUÑOA- Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico SE. <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20ÑUÑOA\">Enviar Ahora!</a></b></li>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN PROVIDENCIA</b>&nbsp;- Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico SE. <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20PROVIDENCIA\">Enviar Ahora!</a></li>\n                    <li><b>NECESITO QUE VENGA AHORA UN INSTALADOR A VER UN PROBLEMA ELÉCTRICO EN MI DOMICILIO EN SANTIAGO CENTRO</b><b>- Este método le permite a Ud. dejar un mensaje en el WhatsApp del Instalador Eléctrico SE. <a href=\"https://api.whatsapp.com/send?phone=56962000921&text=QUE%20VENGA%20AHORA%20UN%20INSTALADOR%20A%20VER%20UN%20PROBLEMA%20ELECTRICO%20EN%20MI%20DOMICILIO%20EN%20SANTIAGO%20CENTRO\">Enviar Ahora!</a></b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r0RPERslzS",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content11-ev"
         },
         {
           "_styles": {
