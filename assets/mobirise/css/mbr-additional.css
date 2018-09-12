@@ -6715,6 +6715,8 @@ body {
   }
 }
 .cid-r3oEnfpLFZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/5a39c5ba67b116.74727829151373561042475568.png");
 }
 .cid-r3oEnfpLFZ h1 {
@@ -6727,6 +6729,12 @@ body {
 }
 .cid-r3oEnfpLFZ .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-r3oEnfpLFZ P {
+  color: #232323;
+}
+.cid-r3oEnfpLFZ H1 {
+  color: #2e3a8b;
 }
 .cid-qT7U0aAY5K {
   padding-top: 90px;
