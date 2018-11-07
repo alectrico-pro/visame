@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
-    "currentPage": "ñuñoa.html",
+    "currentPage": "electricista_autorizado.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 547,
+    "uniqCompNum": 548,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -8279,6 +8279,51 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qYgDUlEV8a",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h1": {
+              "color": "#616161"
+            },
+            "h2, h3, p": {
+              "color": "#767676"
+            },
+            ".mbr-section-subtitle": {
+              "font-style": "italic"
+            },
+            "P": {
+              "color": "#2e3a8b"
+            },
+            "H1": {
+              "color": "#ffffff"
+            },
+            "I": {
+              "color": "#2e3a8b"
+            },
+            "H3": {
+              "color": "#2e3a8b"
+            }
+          },
+          "_name": "header9",
+          "_customHTML": "<section class=\"header9\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/5a39c5ba67b116.74727829151373561042475568.png\" selected=\"\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white col-md-8\">\n            <h1 class=\"mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><i style=\"font-weight: normal;\">Aléctrico Designer</i></h1>\n            <h3 class=\"mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">Agregue electrodomésticos a circuitos</h3>\n            <p class=\"mbr-text align-left pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                Aléctrico pone a su disposición su servicio exclusivo de diseño eléctrico. <br><br>Con Designer Aléctrico Ud. puede organizar su instalación eléctrica a fin de adecuarla a los nuevos tiempos.<br><br>También puede comenzar a entender cómo piensa un Instalador Eléctrico y tener los elementos para evaluar sus propuestas.<br><br>Aléctrico ha utilizado Designer Aléctrico por varios años en su versión profesional. La versión que Ud. conocerá está adaptada para ofrecer facilidad de uso.<br><br>\n            </p>\n            <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-black-outline\" href=\"https://designer.alectrico.cl\" data-app-placeholder=\"Type Text\">Diseñar La Electricidad de mi Remodelación</a></div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_anchor": "header9-f7",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "r8GqUjJxW3",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
