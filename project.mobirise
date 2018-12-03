@@ -47,7 +47,7 @@
     "cookiesAlert": "Usamos cookies para mejorar su experiencia de usuario en nuestro sitio web. Lea nuestra política de privacidad de los datos <a href='privacidad.html'>política de privacidad</a>.",
     "siteUrl": "http://alectrico.cl",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /page11.html\nDisallow:/privacidad.html\nDisallow:/clientes.html\nDisallow:/presupuesto.html\n\n\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /page11.html\nDisallow:/privacidad.html\nDisallow:/clientes.html\nDisallow:/presupuesto.html\nDisallow:/electricista\n\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
     "gdpr": "",

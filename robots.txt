@@ -4,6 +4,7 @@ Disallow: /page11.html
 Disallow:/privacidad.html
 Disallow:/clientes.html
 Disallow:/presupuesto.html
+Disallow:/electricista
 
 
 
