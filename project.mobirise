@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
-    "currentPage": "electricista_autorizado.html",
+    "currentPage": "electricista_domicilio.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 545,
     "versionPublish": "4.8.6",
@@ -4702,8 +4702,8 @@
     },
     "ñuñoa.html": {
       "settings": {
-        "title": "Aléctrico: Electricista a Domicilio Ñuñoa | Visita $25.000.-",
-        "meta_descr": "Electricista a Domicilio Ñuñoa, Instalador Eléctrico Autorizado SEC, Eléctrico Autorizado Ñuñoa, Electricista SEC Ñuñoa, Eléctrico a Domicilio, Electricista Ñuñoa",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
+        "meta_descr": "Aléctrico ➜  ☎ 962 000 921 Urgencias Eléctricas, Instalaciones Eléctricas y Reparaciones Eléctricas a Domicilio ➨ Asistencia en 1 hora. Llámanos! Asistencia urgente ✅  Profesionales Electricistas Calificados y Autorizados SEC.\nElectricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio en Providencia. Eléctrico a Domicilio en Santiago. Eléctrico a Domicilio en Ñuñoa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -5441,8 +5441,8 @@
     },
     "providencia.html": {
       "settings": {
-        "title": "Aléctrico: Electricista a Domicilio Providencia | Visita $25.000.-",
-        "meta_descr": "Electricista a Domicilio Providencia, Instalador Eléctrico Autorizado  SEC Providencia, Eléctrico Autorizado Providencia, Eléctricista Providencia, Eléctrico Providencia",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
+        "meta_descr": "Aléctrico ➜  ☎ 962 000 921 Urgencias Eléctricas, Instalaciones Eléctricas y Reparaciones Eléctricas a Domicilio ➨ Asistencia en 1 hora. Llámanos! Asistencia urgente ✅  Profesionales Electricistas Calificados y Autorizados SEC.\nElectricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio en Providencia. Eléctrico a Domicilio en Santiago. Eléctrico a Domicilio en Ñuñoa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -6661,7 +6661,7 @@
     },
     "santiago.html": {
       "settings": {
-        "title": "Electricista a Domicilio Santiago | Visita $25.000.- ",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
         "meta_descr": "Electricista a Domicilio Santiago, Electricista Santiago, Electricista Santiago Centro, Electrico Santiago, Eléctrico Santiago Centro",
         "header_custom": "",
         "footer_custom": "",
@@ -7794,8 +7794,8 @@
     },
     "electricista_autorizado.html": {
       "settings": {
-        "title": "962000921 - Aléctrico: Instalador Eléctrico Autorizado SEC ",
-        "meta_descr": "Electricista a domicilio, Instalador Autorizado SEC, Electricista Autorizado  SEC, Eléctrico a Domicilio, Electrico a Domicilio",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
+        "meta_descr": "Aléctrico ➜  ☎ 962 000 921 Urgencias Eléctricas, Instalaciones Eléctricas y Reparaciones Eléctricas a Domicilio ➨ Asistencia en 1 hora. Llámanos! Asistencia urgente ✅  Profesionales Electricistas Calificados y Autorizados SEC.\nElectricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio en Providencia. Eléctrico a Domicilio en Santiago. Eléctrico a Domicilio en Ñuñoa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -8943,7 +8943,7 @@
     "electricista_domicilio.html": {
       "settings": {
         "main": true,
-        "title": "Electricista a Domicilio | Visita $25.000",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
         "meta_descr": "Electricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio en Providencia. Eléctrico a Domicilio en Santiago. Eléctrico a Domicilio en Ñuñoa.",
         "header_custom": "",
         "footer_custom": "",
