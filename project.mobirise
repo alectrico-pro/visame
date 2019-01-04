@@ -3,7 +3,7 @@
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
     "currentPage": "electricista_domicilio.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 545,
+    "uniqCompNum": 544,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,7 @@
     "cookiesAlert": "Usamos cookies para mejorar su experiencia de usuario en nuestro sitio web. Lea nuestra política de privacidad de los datos <a href='privacidad.html'>política de privacidad</a>.",
     "siteUrl": "http://alectrico.cl",
     "sitemapSwitcherAuto": "on",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /page11.html\nDisallow:/privacidad.html\nDisallow:/clientes.html\nDisallow:/presupuesto.html\nDisallow:/electricista\nDisallow:/assets/files/cv_alexander.pdf\nDisallow:/assets/files/cv_alexander-firmado.pdf\n\n\n\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /page11.html\nDisallow:/privacidad.html\nDisallow:/clientes.html\nDisallow:/presupuesto.html\nDisallow:/assets/files/cv_alexander.pdf\nDisallow:/assets/files/cv_alexander-firmado.pdf\n\n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
     "gdpr": "",

@@ -4,9 +4,9 @@ Disallow: /page11.html
 Disallow:/privacidad.html
 Disallow:/clientes.html
 Disallow:/presupuesto.html
-Disallow:/electricista
 Disallow:/assets/files/cv_alexander.pdf
 Disallow:/assets/files/cv_alexander-firmado.pdf
+
 
 
 
