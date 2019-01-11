@@ -6707,7 +6707,7 @@
             },
             ".testimonial-text": {
               "font-style": "italic",
-              "color": "#676767",
+              "color": "#142dcc",
               "font-weight": "300"
             },
             ".mbr-author-name": {
