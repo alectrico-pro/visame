@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Aléctrico-Providencia-Ñuñoa-SantiagoCentro",
-    "currentPage": "providencia.html",
+    "currentPage": "electricista_domicilio.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 544,
+    "uniqCompNum": 545,
     "versionPublish": "4.8.6",
     "theme": {
       "name": "mobirise4",
@@ -5441,8 +5441,8 @@
     },
     "providencia.html": {
       "settings": {
-        "title": "Electricista Domicilio Providencia  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
-        "meta_descr": "Aléctrico ➜  ☎ 962 000 921 Urgencias Eléctricas, Instalaciones Eléctricas y Reparaciones Eléctricas a Domicilio ➨ Asistencia en 1 hora. Llámanos! Asistencia urgente ✅  Profesionales Electricistas Calificados y Autorizados SEC.\nElectricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio Providencia. Eléctrico a Domicilio Santiago. Eléctrico a Domicilio Ñuñoa.",
+        "title": "Electricista a Domicilio  | ➜  ☎ 962 000 921 ☎ Urgencias, instalación y reparación ➨ Asistencia en 1 hora. Llámanos! Asistencia Urgente ✅  Profesionales Electricistas Calificados. Providencia. Ñuñoa. Santiago Centro.",
+        "meta_descr": "Aléctrico ➜  ☎ 962 000 921 Urgencias Eléctricas, Instalaciones Eléctricas y Reparaciones Eléctricas a Domicilio ➨ Asistencia en 1 hora. Llámanos! Asistencia urgente ✅  Profesionales Electricistas Calificados y Autorizados SEC.\nElectricista a Domicilio: Se realizan revisiones de tableros, reparaciones de cortocircuitos, revisión de cableado, reemplazo de automáticos, medición de puesta a tierra, cerficación de departamentos y casas, normalización de instalaciones eléctricas, aumento de capacidad, separación de circuitos. Eléctrico a Domicilio en Providencia. Eléctrico a Domicilio en Santiago. Eléctrico a Domicilio en Ñuñoa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -9168,6 +9168,38 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".testimonial-text": {
+              "font-style": "italic",
+              "color": "#676767",
+              "font-weight": "300"
+            },
+            ".mbr-author-name": {
+              "font-weight": "bold",
+              "color": "#232"
+            },
+            ".mbr-author-desc": {
+              "color": "#232"
+            }
+          },
+          "_name": "testimonials3",
+          "_customHTML": "<section class=\"testimonials3\" group=\"Testimonials\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n\n      <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\">\n        <input type=\"color\" title=\"Background Color\" value=\"#f3f4f6\" selected>\n        <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n      </fieldset>\n      <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n      <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n      <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\"> \n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"media-content px-3 align-self-center mbr-white py-2\">\n                <p class=\"mbr-text testimonial-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".testimonial-text\">Alexander lleva a cabo su servicio de manera responsable, eficiente y cercana. No solo solucionó oportunamente mi emergencia, sino que me instruyó en medidas basales para tener un mayor control sobre la energía eléctrica en el hogar. Esa experiencia me motivó a contratar sus servicios nuevamente para la instalación de luminarias deco, las cuales hoy lucen hermosas y han impregnado de un nuevo concepto de decoración segura para mi casa y mi familia.</p>\n                <p class=\"mbr-author-name pt-4 mb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-name\">\n                   Belén H. Puebla\n                </p>\n                <p class=\"mbr-author-desc mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-desc\">\n                   Propietaria de Departamento en Ñuñoa<br>Nota: La foto es ilustrativa. El comentario es real y lo puede encontrar <a href=\"https://www.google.com/maps/contrib/115993324348869694763/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1\" target=\"_blank\">aquí</a>.<br></p>\n            </div>\n\n            <div class=\"mbr-figure pl-lg-5\" mbr-style=\"{'width':mediaSize + '%'}\">\n              <img src=\"../_images/face5.jpg\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rePJlxSvxa",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "testimonials3-f4"
         },
         {
           "_styles": {
