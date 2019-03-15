@@ -9224,10 +9224,10 @@
               "color": "#232"
             },
             ".mbr-author-desc P": {
-              "color": "#82786e"
+              "color": "#000000"
             },
             ".mbr-author-desc I": {
-              "color": "#82786e"
+              "color": "#000000"
             }
           },
           "_name": "testimonials3",
