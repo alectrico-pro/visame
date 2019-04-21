@@ -1384,6 +1384,17 @@ body {
     flex: auto!important;
   }
 }
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #2e3a8b;
+  color: #ffffff;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #2e3a8b;
+}
 .cid-qzle9N2NEq {
   background-image: url("../../../assets/images/wp-20160517-8-1456x2592.jpg");
 }
