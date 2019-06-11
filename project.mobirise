@@ -11970,7 +11970,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/machinelearning.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -12001,6 +12001,40 @@
                 "contentAlign": "center",
                 "text": "<a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-white\">Estamos muy agradecidas por el trabajo que realizó Alexander. Lo llamamos por un cuetazo  en la lámpara y resultó que había que hacer nuevos circuitos eléctricos. El trabajo que hizo fue impecable, minucioso y preocupado de que todo quedara en perfecto estado. \n</a><br><a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-success\">Además muy generoso con sus conocimientos.\n</a><br><a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-success\">Gracias Aléctrico.</a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER EN GOOGLE</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dial.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "DIAPOSITIVA DE VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositiva con fondo de video de youtube y superposición con color. El título y el texto están alineados a la izquierda.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/icon-cable.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "DIAPOSITIVA DE VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Diapositiva con fondo de video de youtube y superposición con color. El título y el texto están alineados a la izquierda.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               }
             ]
           }
