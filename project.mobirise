@@ -11926,6 +11926,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "I": {
+              "color": "#000000"
             }
           },
           "_name": "slider1",
@@ -11984,13 +11987,13 @@
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "DIAPOSITIVA DE IMAGEN",
+                "title": "<b><i>instalacion de lamparas<br>$15.000</i></b>",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
