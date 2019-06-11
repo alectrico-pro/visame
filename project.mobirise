@@ -11949,21 +11949,21 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/cubiertaleonel2.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "image": "@PROJECT_PATH@/assets/images/captura.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "CARRUSEL DE IMÁGENES A PANTALLA COMPLETA",
-                "overlay": false,
+                "title": "Gracias Aléctrico",
+                "overlay": true,
                 "contentAlign": "center",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "text": "Estamos muy agradecidas por el trabajo que realizó Alexander. Lo llamamos por un cuetazo  en la lámpara y resultó que había que hacer nuevos circuitos eléctricos. El trabajo que hizo fue impecable, minucioso y preocupado de que todo quedara en perfecto estado. \n<br>Además muy generoso con sus conocimientos.\n<br>Gracias Aléctrico.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER EN GOOGLE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cubiertaleonel.jpg",
@@ -11984,7 +11984,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cubiertaleonel3.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
