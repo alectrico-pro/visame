@@ -11953,8 +11953,8 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/cubiertaleonel3.jpg",
-                "active": false,
-                "showButtons": true,
+                "active": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -11962,11 +11962,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><i>instalación de luminarias<br>$15.000</i></b>",
+                "title": "instalación de luminarias<br>$15.000",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-white\">Estamos muy agradecidas por el trabajo que realizó Alexander. Lo llamamos por un cuetazo  en la lámpara y resultó que había que hacer nuevos circuitos eléctricos. El trabajo que hizo fue impecable, minucioso y preocupado de que todo quedara en perfecto estado. \n</a><br><a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-success\">Además muy generoso con sus conocimientos.\n</a><br><a href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" target=\"_blank\" class=\"text-success\">Gracias Aléctrico.</a>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.alectrico.cl/agendar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AGENDAR</a>  "
+                "text": "<a href=\"http://www.alectrico.cl/agendar\" target=\"_blank\">Instalación de luminarias con terminales soldados.</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER EN GOOGLE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/machinelearning.jpeg",
@@ -11987,7 +11987,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/captura.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
