@@ -11928,7 +11928,7 @@
               "z-index": "auto"
             },
             "I": {
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_name": "slider1",
@@ -11993,7 +11993,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b><i>instalacion de lamparas<br>$15.000</i></b>",
+                "title": "<b><i>instalación de luminarias<br>$15.000</i></b>",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
