@@ -11928,7 +11928,7 @@
               "z-index": "auto"
             },
             "I": {
-              "color": "#232323"
+              "color": "#c1c1c1"
             }
           },
           "_name": "slider1",
@@ -11944,7 +11944,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
@@ -11996,8 +11996,8 @@
                 "title": "<b><i>instalación de luminarias<br>$15.000</i></b>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "text": "Instalación de luminarias con conexión a tierra, sin tensión en laa uniones y terminales soldados.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.alectrico.cl/agendar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AGENDAR</a>  "
               }
             ]
           }
