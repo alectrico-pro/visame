@@ -11953,7 +11953,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/cubiertaleonel3.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -11965,14 +11965,14 @@
                 "title": "instalación de luminarias<br>$15.000",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<a href=\"http://www.alectrico.cl/agendar\" target=\"_blank\">Instalación de luminarias con terminales soldados.</a>",
+                "text": "<a href=\"http://www.alectrico.cl/agendar\" target=\"_blank\" class=\"text-white\">Instalación de luminarias con terminales soldados.</a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"https://www.google.com/maps/contrib/114304540341170988440/reviews/@-33.4209179,-70.604516,17z/data=!3m1!4b1!4m3!8m2!3m1!1e1?hl=es-419\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VER EN GOOGLE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/machinelearning.jpeg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
+                "active": true,
+                "showButtons": false,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
