@@ -7130,21 +7130,6 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-qATHtRCTg5 {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/detalle-del-bloqueo-de-circuito-1456x2592.jpg");
-}
-.cid-qATHtRCTg5 B {
-  color: #149dcc;
-}
-.cid-qATHtRCTg5 .mbr-text,
-.cid-qATHtRCTg5 .mbr-section-btn {
-  color: #cccccc;
-}
-.cid-qATHtRCTg5 H1 {
-  color: #149dcc;
-}
 .cid-qAUlmkkK9V {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -7223,34 +7208,6 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
-}
-.cid-r8GqUjJxW3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/5a39c5ba67b116.74727829151373561042475568.png");
-}
-.cid-r8GqUjJxW3 h1 {
-  color: #616161;
-}
-.cid-r8GqUjJxW3 h2,
-.cid-r8GqUjJxW3 h3,
-.cid-r8GqUjJxW3 p {
-  color: #767676;
-}
-.cid-r8GqUjJxW3 .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-r8GqUjJxW3 P {
-  color: #2e3a8b;
-}
-.cid-r8GqUjJxW3 H1 {
-  color: #ffffff;
-}
-.cid-r8GqUjJxW3 I {
-  color: #2e3a8b;
-}
-.cid-r8GqUjJxW3 H3 {
-  color: #2e3a8b;
 }
 .cid-qzktFgr3XF {
   padding-top: 90px;
@@ -7835,85 +7792,6 @@ body {
   .cid-qzYAPFCjf7 .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qzZ0WCsEcZ {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-qzZ0WCsEcZ .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qzZ0WCsEcZ .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qzZ0WCsEcZ .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qzZ0WCsEcZ .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qzZ0WCsEcZ .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qzZ0WCsEcZ .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qzZ0WCsEcZ .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qzZ0WCsEcZ .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qzZ0WCsEcZ .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qzZ0WCsEcZ .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qzZ0WCsEcZ .media-container-row .row-copirayt {
-  word-break: break-word;
-}
-.cid-qzZ0WCsEcZ foot-menu-item {
-  text-align: right;
-  color: #f7a54a;
-}
-.cid-qzZ0WCsEcZ foot-menu-item A {
-  color: #f7a54a;
-}
-.cid-qYgDUlEV8a {
-  background-image: url("../../../assets/images/tablero-25-perspectiva-derecha.jpeg");
-}
-.cid-qYgDUlEV8a h1 {
-  color: #616161;
-}
-.cid-qYgDUlEV8a h2,
-.cid-qYgDUlEV8a h3,
-.cid-qYgDUlEV8a p {
-  color: #767676;
-}
-.cid-qYgDUlEV8a .mbr-section-subtitle {
-  font-style: italic;
 }
 .cid-qATF11NdDV {
   padding-top: 75px;
