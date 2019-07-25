@@ -6724,21 +6724,6 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-qT7U0bOP63 {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/detalle-del-bloqueo-de-circuito-1456x2592.jpg");
-}
-.cid-qT7U0bOP63 B {
-  color: #149dcc;
-}
-.cid-qT7U0bOP63 .mbr-text,
-.cid-qT7U0bOP63 .mbr-section-btn {
-  color: #cccccc;
-}
-.cid-qT7U0bOP63 H1 {
-  color: #149dcc;
-}
 .cid-qT7U0dWBty {
   padding-top: 90px;
   padding-bottom: 15px;
@@ -7317,113 +7302,6 @@ body {
   .cid-qT7U0nrTtC .menu-logo {
     flex-shrink: 0;
   }
-}
-.cid-qT7U0orAw2 {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-qT7U0orAw2 .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-qT7U0orAw2 .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-qT7U0orAw2 .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-qT7U0orAw2 .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-qT7U0orAw2 .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qT7U0orAw2 .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-qT7U0orAw2 .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qT7U0orAw2 .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qT7U0orAw2 .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qT7U0orAw2 .media-container-row .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qT7U0orAw2 .media-container-row .row-copirayt {
-  word-break: break-word;
-}
-.cid-qT7U0orAw2 foot-menu-item {
-  text-align: right;
-  color: #f7a54a;
-}
-.cid-qT7U0orAw2 foot-menu-item A {
-  color: #f7a54a;
-}
-.cid-r3oEnfpLFZ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/5a39c5ba67b116.74727829151373561042475568.png");
-}
-.cid-r3oEnfpLFZ h1 {
-  color: #616161;
-}
-.cid-r3oEnfpLFZ h2,
-.cid-r3oEnfpLFZ h3,
-.cid-r3oEnfpLFZ p {
-  color: #767676;
-}
-.cid-r3oEnfpLFZ .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-r3oEnfpLFZ P {
-  color: #2e3a8b;
-}
-.cid-r3oEnfpLFZ H1 {
-  color: #ffffff;
-}
-.cid-r3oEnfpLFZ I {
-  color: #2e3a8b;
-}
-.cid-r3oEnfpLFZ H3 {
-  color: #2e3a8b;
-}
-.cid-qYgDe0aAJA {
-  background-image: url("../../../assets/images/tablero-25-perspectiva-derecha.jpeg");
-}
-.cid-qYgDe0aAJA h1 {
-  color: #616161;
-}
-.cid-qYgDe0aAJA h2,
-.cid-qYgDe0aAJA h3,
-.cid-qYgDe0aAJA p {
-  color: #767676;
-}
-.cid-qYgDe0aAJA .mbr-section-subtitle {
-  font-style: italic;
 }
 .cid-qATF11NdDV {
   padding-top: 120px;
