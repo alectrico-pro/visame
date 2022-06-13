@@ -6,7 +6,10 @@ Contamos con experiencias reales de personas que ya han superado éxitosamente e
 
 Esas experiencias y el estudio de los temas legales migratorios nos permiten ofrecerle a Ud. las combinaciones que mejor le acomoden, de acuerdo a su caso.
 
-Para saber su situacin contamos con un Inteligencia Artifical desde WhatsApp y conexin directa a los sistemas de reservas de las aerolíneas. Todo ese poder estará al alcance de sus dedos y a una distancia de un click de su WhatsApp.
+Para determinar su situación contamos con Inteligencia Artifical desde WhatsApp y conexión directa a los sistemas de reserva de las aerolíneas. Todo ese poder estará al alcance de sus dedos y a una distancia de un click en su WhatsApp.
+
+
+
 
 
 
