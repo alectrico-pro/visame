@@ -9,7 +9,7 @@ Esas experiencias y el estudio de los temas legales migratorios nos permiten ofr
 Para determinar su situación contamos con Inteligencia Artifical desde WhatsApp y conexión directa a los sistemas de reserva de las aerolíneas. Todo ese poder estará al alcance de sus dedos y a una distancia de un click en su WhatsApp.
 
 
-[](./mbr.jpg)
+![](./mbr.jpg)
 
 
 
