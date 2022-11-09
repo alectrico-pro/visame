@@ -1,4 +1,4 @@
 # orquestaos/landing_page/cl_2
-# aelectrico.cl
-# alectrico-pro.github.io/aelectrico.git
+# hola.alectrico.cl
+# alectrico-pro.github.io/hola.git
 GitHub Pages
